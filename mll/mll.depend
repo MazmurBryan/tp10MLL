@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731855095 source:c:\users\mazmu\onedrive\dokumen\belajarc++\mll\main.cpp
+	"flight.h"
+	<iostream>
+
+1731854282 source:c:\users\mazmu\onedrive\dokumen\belajarc++\mll\flight.cpp
+	"flight.h"
+
+1731852081 c:\users\mazmu\onedrive\dokumen\belajarc++\mll\flight.h
+	<iostream>
+
